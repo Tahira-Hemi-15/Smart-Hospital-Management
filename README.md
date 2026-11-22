@@ -41,12 +41,12 @@ Feel free to open an issue or submit a pull request for improvements, bug fixes,
 ---
 
 ## 👤 Author
-**Mohiuddin Mukim**  
-🔗 GitHub: [https://github.com/Mohiuddin-Mukim]
+**Tahira Jahan Hemi**  
+🔗 GitHub: [https://github.com/Tahira-Hemi-15](https://github.com/Tahira-Hemi-15)
 
 ---
 
 ## 💙 Built With
 Made with passion using **Java** and **Spring Boot**.
 
-© 2026 Mohiuddin Rahman Mukim. All rights reserved.
+© 2026 Tahira Jahan Hemi. All rights reserved.
